@@ -161,6 +161,7 @@ export default function Sidebar({ selectedCategoryId, onSelectCategory }) {
                             }}
                         />
                         <span className="toggle-slider"></span>
+                        
                     </label>
                 </div>
 
